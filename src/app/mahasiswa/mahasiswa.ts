@@ -73,7 +73,7 @@ export class Mahasiswa implements AfterViewInit{
     var nama = $("#namaText").val();
     var nim = $("#nimText").val();
     var statusNikah = $("#statusNikahSelect").val();
-    var tahunMasuk = $("#tahunMasukText").val();
+    var tahunMasuk = $("#tahunMasukSelect").val();
     var tanggalLahir = $("#tanggalLahirText").val();
     var tempatLahir = $("#tempatLahirText").val();
 
